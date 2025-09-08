@@ -1,0 +1,21 @@
+artifact_path: spark-model
+flavors:
+  python_function:
+    data: sparkml
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.spark
+    python_version: 3.12.3
+  spark:
+    code: null
+    model_class: pyspark.ml.pipeline.PipelineModel
+    model_data: sparkml
+    pyspark_version: 4.0.1
+mlflow_version: 3.3.2
+model_id: null
+model_size_bytes: 40490
+model_uuid: 0f4b816a10df4d3b8123a782dc8eaf43
+prompts: null
+run_id: e224d7e70817431290460803129cc7a8
+utc_time_created: '2025-09-07 08:55:56.499902'

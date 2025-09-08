@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1757236619041,"sparkVersion":"4.0.1","uid":"Imputer_c7c7fc9113fc","paramMap":{"inputCols":["Fare"],"strategy":"mean","outputCols":["Fare"]},"defaultParamMap":{"relativeError":0.001,"strategy":"mean","outputCol":"Imputer_c7c7fc9113fc__output","missingValue":"NaN"}}

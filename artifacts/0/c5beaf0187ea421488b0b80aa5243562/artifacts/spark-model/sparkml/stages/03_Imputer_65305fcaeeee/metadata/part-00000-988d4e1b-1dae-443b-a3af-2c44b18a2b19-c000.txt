@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1757261755934,"sparkVersion":"4.0.1","uid":"Imputer_65305fcaeeee","paramMap":{"outputCols":["Pclass","SibSp","Parch"],"strategy":"median","inputCols":["Pclass","SibSp","Parch"]},"defaultParamMap":{"outputCol":"Imputer_65305fcaeeee__output","strategy":"mean","missingValue":"NaN","relativeError":0.001}}

@@ -1,0 +1,8 @@
+mlflow==3.3.2
+defusedxml==0.7.1
+matplotlib==3.10.6
+my-classification-model==0.0.1
+numpy==2.3.2
+pandas==2.3.2
+pyspark==4.0.1
+scipy==1.16.1
